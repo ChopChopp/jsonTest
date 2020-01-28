@@ -1,0 +1,30 @@
+[
+  {
+    "employeeId": 101,
+    "employeeName": "Erica Rogers",
+    "jobTitle": "CEO",
+    "employmentType": "Permanent",
+    "children": [
+      {
+        "employeeId": 102,
+        "employeeName": "Malcolm Barrett",
+        "jobTitle": "Exec. Vice President",
+        "employmentType": "Permanent",
+        "children": [
+          {
+            "employeeId": 103,
+            "employeeName": "Leah Flowers",
+            "jobTitle": "Parts Technician",
+            "employmentType": "Contract"
+          },
+          {
+            "employeeId": 104,
+            "employeeName": "Tammy Sutton",
+            "jobTitle": "Service Technician",
+            "employmentType": "Contract"
+          }
+        ]
+      }
+    ]
+  }
+]
